@@ -1,0 +1,39 @@
+{
+    "market_update": {
+        "1": [],
+        "2": [],
+        "3": [
+            {
+                "numberOfTextFields": 6,
+                "numberOfColorFields": 5,
+                "numberOfColorDroppers": 0,
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Median List Price"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Price Per Square Foot"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Average Days On Market"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Price Decrease"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Price Increase"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Median Rent"
+                    }
+                ]
+            }
+        ]
+    }
+}
