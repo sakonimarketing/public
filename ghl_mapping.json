@@ -91,6 +91,270 @@
                         "label": "Background Image"
                     }
                 ]
+            },
+            {   
+                "template_id": "a5596dba-598c-4136-94a3-fd721e11bc62",
+                "file_postfix": "(market update)",
+                "attributes": {
+                    "numberOfTextFields": 6,
+                    "numberOfColorFields": 5,
+                    "numberOfColorDroppers": 5,
+                    "numberOfBackgrounds": 1,
+                    "numberOfLogos": 1,
+                    "numberOfHeadshots": 1
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Median List Price"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Price Per Square Foot"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Average Days On Market"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Price Decrease"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Price Increase"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Median Rent"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Footer and Icon Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Animation Slide Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Body Text Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer Text Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Border Color"
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Footer and Icon Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Animation Slide Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Body Text Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer Text Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Border Color"
+                    }
+                ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "Background Image"
+                    }
+                ]
+            },
+            {   
+                "template_id": "66fe0031-789f-40ee-b713-e492dffe52b6",
+                "file_postfix": "(market update)",
+                "attributes": {
+                    "numberOfTextFields": 6,
+                    "numberOfColorFields": 5,
+                    "numberOfColorDroppers": 5,
+                    "numberOfBackgrounds": 1,
+                    "numberOfLogos": 1,
+                    "numberOfHeadshots": 1
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Median List Price"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Price Per Square Foot"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Average Days On Market"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Price Decrease"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Price Increase"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Median Rent"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Footer and Icon Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Animation Slide Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Body Text Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer Text Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Border Color"
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Footer and Icon Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Animation Slide Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Body Text Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer Text Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Border Color"
+                    }
+                ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "Background Image"
+                    }
+                ]
+            },
+            {   
+                "template_id": "ab22f40f-d6aa-4486-8268-728ab20a95f0",
+                "file_postfix": "(market update)",
+                "attributes": {
+                    "numberOfTextFields": 6,
+                    "numberOfColorFields": 5,
+                    "numberOfColorDroppers": 5,
+                    "numberOfBackgrounds": 1,
+                    "numberOfLogos": 1,
+                    "numberOfHeadshots": 1
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Median List Price"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Price Per Square Foot"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Average Days On Market"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Price Decrease"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Price Increase"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Median Rent"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Footer and Icon Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Animation Slide Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Body Text Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer Text Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Border Color"
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Footer and Icon Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Animation Slide Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Body Text Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer Text Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Border Color"
+                    }
+                ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "Background Image"
+                    }
+                ]
             }
         ]
     }    
