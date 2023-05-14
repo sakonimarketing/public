@@ -108,7 +108,7 @@
                         },
                         {
                             "fieldType": "animation",
-                            "colorKey": "animation.0.color",
+                            "colorKey": "animations.0.color",
                             "fields": [
                                 "BackgroundImage",
                                 "Footer"
