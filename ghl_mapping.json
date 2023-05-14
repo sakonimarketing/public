@@ -94,7 +94,7 @@
                     "colors": [
                         {
                             "fieldType": "text",
-                            "colorType": "fill_color",
+                            "colorKey": "fill_color",
                             "fields": [
                                 "MedianListPriceCircle",
                                 "PricePerSquareFootCircle",
@@ -108,7 +108,7 @@
                         },
                         {
                             "fieldType": "animation",
-                            "colorType": "color",
+                            "colorKey": "animation.0.color",
                             "fields": [
                                 "BackgroundImage",
                                 "Footer"
@@ -117,7 +117,7 @@
                         },
                         {
                             "fieldType": "text",
-                            "colorType": "fill_color",
+                            "colorKey": "fill_color",
                             "fields": [
                                 "Text1",
                                 "Text2",
@@ -125,7 +125,6 @@
                                 "Text4",
                                 "Text5",
                                 "Text6",
-                                "City",
                                 "MedianRentText",
                                 "MedianListPriceText",
                                 "PriceIncreaseText",
@@ -137,7 +136,7 @@
                         },
                         {
                             "fieldType": "text",
-                            "colorType": "fill_color",
+                            "colorKey": "fill_color",
                             "fields": [
                                 "ContactCredentials",
                                 "ContactWebsite",
@@ -150,7 +149,7 @@
                         },
                         {
                             "fieldType": "block",
-                            "colorType": "stroke_color",
+                            "colorKey": "stroke_color",
                             "fields": [
                                 "Border"
                             ],
