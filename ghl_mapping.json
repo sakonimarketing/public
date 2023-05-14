@@ -158,7 +158,7 @@
                 }
             },
             {   
-                "template_id": "a5596dba-598c-4136-94a3-fd721e11bc62", // Actually ec843774-cb1f-4e1e-9127-a8e594cea82c
+                "template_id": "a5596dba-598c-4136-94a3-fd721e11bc62",
                 "file_postfix": "(market update)",
                 "attributes": {
                     "numberOfTextFields": 6,
@@ -605,7 +605,7 @@
                 }
             },
             {   
-                "template_id": "4da446ff-dbe0-4795-9b9b-a0f3c3dc612b", // Actually ec843774-cb1f-4e1e-9127-a8e594cea82c
+                "template_id": "4da446ff-dbe0-4795-9b9b-a0f3c3dc612b",
                 "file_postfix": "(market update)",
                 "attributes": {
                     "numberOfTextFields": 6,
