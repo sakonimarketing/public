@@ -192,6 +192,12 @@
                             ],
                             "colorIndex": 6
                         }
+                    ],
+                    "headshots": [
+
+                    ],
+                    "logos": [
+                        
                     ]
                 }
             }
@@ -205,7 +211,7 @@
                     "numberOfColorFields": 5,
                     "numberOfColorDroppers": 5,
                     "numberOfBackgrounds": 1,
-                    "numberOfLogos": 1,
+                    "numberOfLogos": 2,
                     "numberOfHeadshots": 1
                 },
                 "textFields": [
@@ -282,6 +288,25 @@
                     {
                         "index": 1,
                         "label": "Background Image"
+                    }
+                ],
+                "headshots": [
+                    {
+                        "headshotIndex": 1,
+                        "headshotOption": null,
+                        "showField": true
+                    }
+                ],
+                "logos": [
+                    {
+                        "logoIndex": 1,
+                        "logoOption": null,
+                        "showField": true
+                    },
+                    {
+                        "logoIndex": 2,
+                        "logoOption": null,
+                        "showField": false
                     }
                 ],
                 "assignments": {
