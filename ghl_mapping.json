@@ -93,7 +93,7 @@
                 ]
             },
             {   
-                "template_id": "a5596dba-598c-4136-94a3-fd721e11bc62",
+                "template_id": "a5596dba-598c-4136-94a3-fd721e11bc62", // Actually ec843774-cb1f-4e1e-9127-a8e594cea82c
                 "file_postfix": "(market update)",
                 "attributes": {
                     "numberOfTextFields": 6,
@@ -178,7 +178,60 @@
                         "index": 1,
                         "label": "Background Image"
                     }
-                ]
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "text",
+                            "textFields": [
+                                "",
+                                ""
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "text",
+                            "textFields": [
+                                "",
+                                ""
+                            ],
+                            "colorIndex": 2
+                        },
+                        {
+                            "fieldType": "text",
+                            "textFields": [
+                                "Text1",
+                                "Text2",
+                                "Text3",
+                                "Text4",
+                                "Text5",
+                                "Text6",
+                                "Text7",
+                                "Text8",
+                                "Price",
+                                "CityStateZip",
+                                "Address"
+                            ],
+                            "colorIndex": 3
+                        },
+                        {
+                            "fieldType": "text",
+                            "textFields": [
+                                "ContactCredentials",
+                                "ContactWebsite",
+                                "ContactPhoneNumber",
+                                "ContactTitle",
+                                "ContactName"
+                            ],
+                            "colorIndex": 4
+                        },
+                        {
+                            "fieldType": "block",
+                            "textFields": [],
+                            "colorIndex": 5
+                        }
+                    ]
+                }
             },
             {   
                 "template_id": "66fe0031-789f-40ee-b713-e492dffe52b6",
@@ -355,7 +408,157 @@
                         "label": "Background Image"
                     }
                 ]
-            }
+            },
+            {   
+                "template_id": "4da446ff-dbe0-4795-9b9b-a0f3c3dc612b", // Actually ec843774-cb1f-4e1e-9127-a8e594cea82c
+                "file_postfix": "(market update)",
+                "attributes": {
+                    "numberOfTextFields": 6,
+                    "numberOfColorFields": 5,
+                    "numberOfColorDroppers": 5,
+                    "numberOfBackgrounds": 1,
+                    "numberOfLogos": 1,
+                    "numberOfHeadshots": 1
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Median List Price"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Price Per Square Foot"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Average Days On Market"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Price Decrease"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Price Increase"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Median Rent"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Footer and Icon Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Animation Slide Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Body Text Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer Text Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Border Color"
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Footer and Icon Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Animation Slide Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Body Text Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer Text Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Border Color"
+                    }
+                ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "Background Image"
+                    }
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "text",
+                            "colorType": "fill_color",
+                            "textFields": [
+                                "MedianListPriceCircle",
+                                "PricePerSquareFootCircle",
+                                "AverageDaysOnMarketCircle",
+                                "PriceDecreaseCircle",
+                                "PriceIncreaseCircle",
+                                "MedianRentCircle",
+                                "FooterBG"
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "animation",
+                            "colorType": "color",
+                            "textFields": [
+                                "BackgroundImage",
+                                "Footer"
+                            ],
+                            "colorIndex": 2
+                        },
+                        {
+                            "fieldType": "text",
+                            "textFields": [
+                                "Text1",
+                                "Text2",
+                                "Text3",
+                                "Text4",
+                                "Text5",
+                                "Text6",
+                                "Text7",
+                                "Text8",
+                                "Price",
+                                "CityStateZip",
+                                "Address"
+                            ],
+                            "colorIndex": 3
+                        },
+                        {
+                            "fieldType": "text",
+                            "textFields": [
+                                "ContactCredentials",
+                                "ContactWebsite",
+                                "ContactPhoneNumber",
+                                "ContactTitle",
+                                "ContactName"
+                            ],
+                            "colorIndex": 4
+                        },
+                        {
+                            "fieldType": "block",
+                            "textFields": [
+                                "Border"
+                            ],
+                            "colorIndex": 5
+                        }
+                    ]
+                }
+            },
         ]
     }    
 }
