@@ -211,7 +211,7 @@
                     "numberOfColorFields": 5,
                     "numberOfColorDroppers": 5,
                     "numberOfBackgrounds": 1,
-                    "numberOfLogos": 2,
+                    "numberOfLogos": 1,
                     "numberOfHeadshots": 1
                 },
                 "textFields": [
@@ -302,11 +302,6 @@
                         "logoIndex": 1,
                         "logoOption": null,
                         "showField": true
-                    },
-                    {
-                        "logoIndex": 3,
-                        "logoOption": null,
-                        "showField": false
                     }
                 ],
                 "assignments": {
