@@ -580,17 +580,21 @@
                 "textFields": [
                     {
                         "index": 1,
-                        "label": "Top Meme Text"
+                        "label": "Title"
                     },
                     {
                         "index": 2,
+                        "label": "Top Meme Text"
+                    },
+                    {
+                        "index": 3,
                         "label": "Bottom Meme Text"
                     }
                 ],
                 "colorFields": [
                     {
                         "index": 1,
-                        "label": "Body Text Color"
+                        "label": "Text Color"
                     },
                     {
                         "index": 2,
@@ -604,7 +608,7 @@
                 "colorDroppers": [
                     {
                         "index": 1,
-                        "label": "Body Text Color"
+                        "label": "Text Color"
                     },
                     {
                         "index": 2,
