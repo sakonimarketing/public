@@ -559,5 +559,117 @@
                 }
             }
         ]
-    }    
+    },
+    "memes": {
+        "1": [
+        ],
+        "2": [
+        ],
+        "3": [
+            {   
+                "template_id": "88c2a892-903e-49c5-bedc-0a8677c2e25d",
+                "file_postfix": "(memes)",
+                "attributes": {
+                    "numberOfTextFields": 3,
+                    "numberOfColorFields": 3,
+                    "numberOfColorDroppers": 3,
+                    "numberOfBackgrounds": 2,
+                    "numberOfLogos": 1,
+                    "numberOfHeadshots": 1
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Top Meme Text"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Bottom Meme Text"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Body Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Background Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Border Color"
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Body Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Background Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Border Color"
+                    }
+                ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "Meme Image 1"
+                    },
+                    {
+                        "index": 1,
+                        "label": "Meme Image 2"
+                    }
+                ],
+                "headshots": [
+                    {
+                        "headshotIndex": 1,
+                        "headshotOption": null,
+                        "showField": true
+                    }
+                ],
+                "logos": [
+                    {
+                        "logoIndex": 1,
+                        "logoOption": null,
+                        "showField": true
+                    }
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Title",
+                                "Text1",
+                                "Text2"
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "DefaultBackground"
+                            ],
+                            "colorIndex": 2
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                "Border"
+                            ],
+                            "colorIndex": 3
+                        }
+                    ]
+                }
+            }
+        ]
+    }      
 }
