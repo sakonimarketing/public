@@ -615,16 +615,6 @@
                         "label": "Border Color"
                     }
                 ],
-                "backgrounds": [
-                    {
-                        "index": 1,
-                        "label": "Meme Image 1"
-                    },
-                    {
-                        "index": 1,
-                        "label": "Meme Image 2"
-                    }
-                ],
                 "headshots": [
                     {
                         "headshotIndex": 1,
