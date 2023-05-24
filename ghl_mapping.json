@@ -639,14 +639,14 @@
                             "fieldType": "text",
                             "colorKey": "fill_color",
                             "fields": [
-                                "Title",
                                 "Text1",
-                                "Text2"
+                                "Text2",
+                                "Text3"
                             ],
                             "colorIndex": 1
                         },
                         {
-                            "fieldType": "block",
+                            "fieldType": "default_background",
                             "colorKey": "fill_color",
                             "fields": [
                                 "DefaultBackground"
