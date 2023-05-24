@@ -805,15 +805,15 @@
                 "textFields": [
                     {
                         "index": 1,
-                        "label": "Title"
+                        "label": "Description"
                     },
                     {
                         "index": 2,
-                        "label": "Top Meme Text"
+                        "label": "Text1"
                     },
                     {
                         "index": 3,
-                        "label": "Bottom Meme Text"
+                        "label": "Text2"
                     }
                 ],
                 "colorFields": [
@@ -1047,3 +1047,4 @@
         ]
     }   
 }
+
