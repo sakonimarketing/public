@@ -560,6 +560,231 @@
             }
         ]
     },
+    "property_highlight": {
+        "1": [
+        ],
+        "2": [
+        ],
+        "3": [
+            {   
+                "template_id": "ec843774-cb1f-4e1e-9127-a8e594cea82c",
+                "file_postfix": "(property highlight)",
+                "attributes": {
+                    "numberOfTextFields": 9,
+                    "numberOfColorFields": 6,
+                    "numberOfColorDroppers": 6,
+                    "numberOfBackgrounds": 8,
+                    "numberOfLogos": 2,
+                    "numberOfHeadshots": 1
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Photo Location 1"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Photo Location 2"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Photo Location 3"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Photo Location 4"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Photo Location 5"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Photo Location 6"
+                    },
+                    {
+                        "index": 7,
+                        "label": "Photo Location 7"
+                    },
+                    {
+                        "index": 8,
+                        "label": "Photo Location 8"
+                    },
+                    {
+                        "index": 9,
+                        "label": "Price"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Title Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Title Background Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Body Text Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer Text Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Footer Body Color"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Border Color"
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Title Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Title Background Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Body Text Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer Text Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Footer Body Color"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Border Color"
+                    }
+                ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "Property Photo 1"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Property Photo 2"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Property Photo 3"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Property Photo 4"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Property Photo 5"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Property Photo 6"
+                    },
+                    {
+                        "index": 7,
+                        "label": "Property Photo 7"
+                    },
+                    {
+                        "index": 8,
+                        "label": "Property Photo 8"
+                    }
+                ],
+                "headshots": [
+                    {
+                        "headshotIndex": 1,
+                        "headshotOption": null,
+                        "showField": true
+                    }
+                ],
+                "logos": [
+                    {
+                        "logoIndex": 1,
+                        "logoOption": null,
+                        "showField": true
+                    }
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Title"
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "background_color.0.value",
+                            "fields": [
+                                "Title"
+                            ],
+                            "colorIndex": 2
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text1",
+                                "Text2",
+                                "Text3",
+                                "Text4",
+                                "Text5",
+                                "Text6",
+                                "Text7",
+                                "Text8",
+                                "Text9",
+                                "CityStateZip",
+                                "Address"
+                            ],
+                            "colorIndex": 3
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "ContactCredentials",
+                                "ContactWebsite",
+                                "ContactPhoneNumber",
+                                "ContactTitle",
+                                "ContactName",
+                                "ContactEmail"
+                            ],
+                            "colorIndex": 4
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "FooterBG"
+                            ],
+                            "colorIndex": 5
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                "Border"
+                            ],
+                            "colorIndex": 6
+                        }
+                    ]
+                }
+            }
+        ]
+    },
     "memes": {
         "1": [
         ],
