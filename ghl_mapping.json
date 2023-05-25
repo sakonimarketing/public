@@ -1043,6 +1043,376 @@
                         }
                     ]
                 }
+            },
+            {   
+                "template_id": "dffc8170-eb0f-481b-bdab-b1889685c8c4",
+                "file_postfix": "(general) (testimonial)",
+                "attributes": {
+                    "numberOfTextFields": 2,
+                    "numberOfColorFields": 7,
+                    "numberOfColorDroppers": 7,
+                    "numberOfBackgrounds": 0,
+                    "numberOfLogos": 1,
+                    "numberOfHeadshots": 1
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Testimonial Full Name"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Testimoninal Message"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Name & Message Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Body BG Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Headshot Shading Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Star Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "BG Color"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Border Color"
+                    },
+                    {
+                        "index": 7,
+                        "label": "Footer Text Color"
+                    },
+                    {
+                        "index": 8,
+                        "label": "Footer BG Color"
+                    },
+                    {
+                        "index": 9,
+                        "label": "End Screen Text Color"
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Name & Message Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Body BG Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Headshot Shading Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Star Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "BG Color"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Border Color"
+                    },
+                    {
+                        "index": 7,
+                        "label": "Footer Text Color"
+                    },
+                    {
+                        "index": 8,
+                        "label": "Footer BG Color"
+                    },
+                    {
+                        "index": 9,
+                        "label": "End Screen Text Color"
+                    }
+                ],
+                "headshots": [
+                    {
+                        "headshotIndex": 1,
+                        "headshotOption": null,
+                        "showField": true
+                    }
+                ],
+                "logos": [
+                    {
+                        "logoIndex": 1,
+                        "logoOption": null,
+                        "showField": true
+                    }
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text1",
+                                "Text2"
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Body"
+                            ],
+                            "colorIndex": 2
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                "Headshot1",
+                                "Headshot1BG"
+                            ],
+                            "colorIndex": 3
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Headshot1BG"
+                            ],
+                            "colorIndex": 3
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "shadow_color",
+                            "fields": [
+                                "Body"
+                            ],
+                            "colorIndex": 4
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Star1",
+                                "Star2",
+                                "Star3",
+                                "Star4",
+                                "Star5"
+                            ],
+                            "colorIndex": 4
+                        },
+                        {
+                            "fieldType": "default_background",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "DefaultBackground"
+                            ],
+                            "colorIndex": 5
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                "Border"
+                            ],
+                            "colorIndex": 6
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "ContactCredentials",
+                                "ContactWebsite",
+                                "ContactPhoneNumber",
+                                "ContactTitle",
+                                "ContactName",
+                                "ContactEmail"
+                            ],
+                            "colorIndex": 7
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "FooterBG"
+                            ],
+                            "colorIndex": 8
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text3"
+                            ],
+                            "colorIndex": 9
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "example_campaign": {
+        "1": [
+        ],
+        "2": [
+        ],
+        "3": [
+            {   
+                "template_id": "1c273df8-093b-4a38-a3d2-4f0b85eaa663",
+                "file_postfix": "(general)",
+                "attributes": {
+                    "numberOfTextFields": 2, //number of text fields
+                    "numberOfColorFields": 6, //number of color fields
+                    "numberOfColorDroppers": 6, //number of color droppers
+                    "numberOfBackgrounds": 1, //number of bgs
+                    "numberOfLogos": 1, //number of logos
+                    "numberOfHeadshots": 1 //number of headshots
+                },
+                "textFields": [
+                    {
+                        "index": 1, // First Form field to show on the form
+                        "label": "Top Text" // First Form label to show on the form
+                    },
+                    {
+                        "index": 2,
+                        "label": "Bottom Text"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Top Container Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Bottom Container Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Top Dots Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Bottom Dots Color"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Border Color"
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Top Container Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Bottom Container Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Top Dots Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Bottom Dots Color"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Border Color"
+                    }
+                ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "Background Image"
+                    }
+                ],
+                "headshots": [
+                    {
+                        "headshotIndex": 1,
+                        "headshotOption": null,
+                        "showField": true
+                    }
+                ],
+                "logos": [
+                    {
+                        "logoIndex": 1,
+                        "logoOption": null,
+                        "showField": true
+                    }
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text1",
+                                "Text2"
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Container1BG"
+                            ],
+                            "colorIndex": 2
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Container2BG"
+                            ],
+                            "colorIndex": 3
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Dots1"
+                            ],
+                            "colorIndex": 4
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Dots2"
+                            ],
+                            "colorIndex": 5
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                "Border"
+                            ],
+                            "colorIndex": 6
+                        }
+                    ]
+                }
             }
         ]
     }   
