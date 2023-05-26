@@ -1596,15 +1596,6 @@
                         },
                         {
                             "fieldType": "block",
-                            "colorKey": "stroke_color",
-                            "fields": [
-                                "Headshot1",
-                                "Headshot1BG"
-                            ],
-                            "colorIndex": 3
-                        },
-                        {
-                            "fieldType": "block",
                             "colorKey": "fill_color",
                             "fields": [
                                 "Headshot1BG"
