@@ -1418,17 +1418,17 @@
                     },
                     {
                         "index": 3,
-                        "label": "Rating",
-                        "type": "number", 
-                        "required": true,
-                        "placeholder": "Between 1 and 5"
-                    },
-                    {
-                        "index": 4,
                         "label": "End Screen Message",
                         "type": "text", 
                         "required": true,
                         "placeholder": "Body Message"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Rating",
+                        "type": "number", 
+                        "required": true,
+                        "placeholder": "Between 1 and 5"
                     }
                 ],
                 "colorFields": [
