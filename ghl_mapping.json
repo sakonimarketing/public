@@ -1392,8 +1392,8 @@
                 "file_postfix": "(general) (testimonial)",
                 "attributes": {
                     "numberOfTextFields": 3,
-                    "numberOfColorFields": 7,
-                    "numberOfColorDroppers": 7,
+                    "numberOfColorFields": 9,
+                    "numberOfColorDroppers": 9,
                     "numberOfBackgrounds": 0,
                     "numberOfLogos": 1,
                     "numberOfHeadshots": 1,
