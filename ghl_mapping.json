@@ -10,7 +10,8 @@
                     "numberOfColorDroppers": 7,
                     "numberOfBackgrounds": 0,
                     "numberOfLogos": 1,
-                    "numberOfHeadshots": 1
+                    "numberOfHeadshots": 1,
+                    "specialConsiderations": []
                 },
                 "textFields": [
                     {
@@ -178,12 +179,11 @@
                             "colorIndex": 7
                         }
                     ],
-                    "headshots": [
-
-                    ],
-                    "logos": [
-                        
-                    ]
+                    "headshots": [],
+                    "logos": []
+                },
+                "specialConsiderations": {
+                    "rating": []
                 }
             }
         ],
@@ -197,7 +197,8 @@
                     "numberOfColorDroppers": 7,
                     "numberOfBackgrounds": 1,
                     "numberOfLogos": 1,
-                    "numberOfHeadshots": 2
+                    "numberOfHeadshots": 2,
+                    "specialConsiderations": []
                 },
                 "textFields": [
                     {
@@ -382,9 +383,10 @@
                     "headshots": [
 
                     ],
-                    "logos": [
-                        
-                    ]
+                    "logos": []
+                },
+                "specialConsiderations": {
+                    "rating": []
                 }
             }
         ],
@@ -398,7 +400,8 @@
                     "numberOfColorDroppers": 5,
                     "numberOfBackgrounds": 1,
                     "numberOfLogos": 1,
-                    "numberOfHeadshots": 1
+                    "numberOfHeadshots": 1,
+                    "specialConsiderations": []
                 },
                 "textFields": [
                     {
@@ -575,7 +578,8 @@
                     "numberOfColorDroppers": 6,
                     "numberOfBackgrounds": 8,
                     "numberOfLogos": 1,
-                    "numberOfHeadshots": 1
+                    "numberOfHeadshots": 1,
+                    "speciaConsiderations": []
                 },
                 "textFields": [
                     {
@@ -781,6 +785,9 @@
                             "colorIndex": 6
                         }
                     ]
+                },
+                "specialConsiderations": {
+                    "rating": []
                 }
             }
         ]
@@ -800,7 +807,8 @@
                     "numberOfColorDroppers": 3,
                     "numberOfBackgrounds": 0,
                     "numberOfLogos": 1,
-                    "numberOfHeadshots": 1
+                    "numberOfHeadshots": 1,
+                    "specialConsiderations": []
                 },
                 "textFields": [
                     {
@@ -887,6 +895,9 @@
                             "colorIndex": 3
                         }
                     ]
+                },
+                "specialConsiderations": {
+                    "rating": []
                 }
             }
         ]
@@ -906,7 +917,8 @@
                     "numberOfColorDroppers": 6,
                     "numberOfBackgrounds": 1,
                     "numberOfLogos": 1,
-                    "numberOfHeadshots": 1
+                    "numberOfHeadshots": 1,
+                    "specialConsiderations": []
                 },
                 "textFields": [
                     {
@@ -1042,6 +1054,9 @@
                             "colorIndex": 6
                         }
                     ]
+                },
+                "specialConsiderations": {
+                    "rating": []
                 }
             },
             {   
@@ -1053,7 +1068,8 @@
                     "numberOfColorDroppers": 7,
                     "numberOfBackgrounds": 0,
                     "numberOfLogos": 1,
-                    "numberOfHeadshots": 1
+                    "numberOfHeadshots": 1,
+                    "specialConsiderations": ["rating"]
                 },
                 "textFields": [
                     {
@@ -1257,9 +1273,213 @@
                             "colorIndex": 9
                         }
                     ]
+                },
+                "specialConsiderations": {
+                    "rating": [
+                        {
+                            "index": 1,
+                            "fields": ["Star1"]
+                        },
+                        {
+                            "index": 2,
+                            "fields": ["Star2"]
+                        },
+                        {
+                            "index": 3,
+                            "fields": ["Star3"]
+                        },
+                        {
+                            "index": 4,
+                            "fields": ["Star4"]
+                        },
+                        {
+                            "index": 5,
+                            "fields": ["Star5"]
+                        }
+                    ]
                 }
             }
         ]
-    } 
+    },
+    "example_campaign": {
+        "1": [
+        ],
+        "2": [
+        ],
+        "3": [
+            {   
+                "template_id": "1c273df8-093b-4a38-a3d2-4f0b85eaa663",
+                "file_postfix": "(general)",
+                "attributes": {
+                    "numberOfTextFields": 2, //number of text fields
+                    "numberOfColorFields": 6, //number of color fields
+                    "numberOfColorDroppers": 6, //number of color droppers
+                    "numberOfBackgrounds": 1, //number of bgs
+                    "numberOfLogos": 1, //number of logos
+                    "numberOfHeadshots": 1, //number of headshots,
+                    "specialConsiderations": ["rating"]
+                },
+                "textFields": [
+                    {
+                        "index": 1, // First Form field to show on the form
+                        "label": "Top Text" // First Form label to show on the form
+                    },
+                    {
+                        "index": 2,
+                        "label": "Bottom Text"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Top Container Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Bottom Container Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Top Dots Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Bottom Dots Color"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Border Color"
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Top Container Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Bottom Container Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Top Dots Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Bottom Dots Color"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Border Color"
+                    }
+                ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "Background Image"
+                    }
+                ],
+                "headshots": [
+                    {
+                        "headshotIndex": 1,
+                        "headshotOption": null,
+                        "showField": true
+                    }
+                ],
+                "logos": [
+                    {
+                        "logoIndex": 1,
+                        "logoOption": null,
+                        "showField": true
+                    }
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text1",
+                                "Text2"
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Container1BG"
+                            ],
+                            "colorIndex": 2
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Container2BG"
+                            ],
+                            "colorIndex": 3
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Dots1"
+                            ],
+                            "colorIndex": 4
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Dots2"
+                            ],
+                            "colorIndex": 5
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                "Border"
+                            ],
+                            "colorIndex": 6
+                        }
+                    ]
+                },
+                "specialConsiderations": {
+                    "rating": [
+                        {
+                            "index": 1,
+                            "fields": ["Star1"]
+                        },
+                        {
+                            "index": 2,
+                            "fields": ["Star2"]
+                        },
+                        {
+                            "index": 3,
+                            "fields": ["Star3"]
+                        },
+                        {
+                            "index": 4,
+                            "fields": ["Star4"]
+                        },
+                        {
+                            "index": 5,
+                            "fields": ["Star5"]
+                        }
+                    ]
+                }
+            }
+        ]
+    }   
 }
 
