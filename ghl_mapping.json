@@ -17,37 +17,37 @@
                     {
                         "index": 1,
                         "label": "Median List Price",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 2,
                         "label": "Price Per Square Foot",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 3,
                         "label": "Average Days On Market",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 4,
                         "label": "Price Decrease",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 5,
                         "label": "Price Increase",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 6,
                         "label": "Median Rent",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     }
                 ],
@@ -55,19 +55,19 @@
                     {
                         "index": 1,
                         "label": "Title Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 2,
                         "label": "City Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 3,
                         "label": "Body Text Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
@@ -1111,19 +1111,19 @@
                     {
                         "index": 1,
                         "label": "Testimonial Full Name",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 2,
                         "label": "Testimoninal Message",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 3,
                         "label": "Rating",
-                        "type": "int", 
+                        "type": "number", 
                         "required": true
                     }
                 ],
@@ -1131,55 +1131,55 @@
                     {
                         "index": 1,
                         "label": "Name & Message Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 2,
                         "label": "Body BG Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 3,
                         "label": "Headshot Shading Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 4,
                         "label": "Star Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 5,
                         "label": "BG Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 6,
                         "label": "Border Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 7,
                         "label": "Footer Text Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 8,
                         "label": "Footer BG Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 9,
                         "label": "End Screen Text Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     }
                 ],
@@ -1187,55 +1187,55 @@
                     {
                         "index": 1,
                         "label": "Name & Message Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 2,
                         "label": "Body BG Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 3,
                         "label": "Headshot Shading Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 4,
                         "label": "Star Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 5,
                         "label": "BG Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 6,
                         "label": "Border Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 7,
                         "label": "Footer Text Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 8,
                         "label": "Footer BG Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     },
                     {
                         "index": 9,
                         "label": "End Screen Text Color",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true
                     }
                 ],
