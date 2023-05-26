@@ -734,6 +734,9 @@
                             "colorIndex": 5
                         }
                     ]
+                },
+                "specialConsiderations": {
+                    "rating": []
                 }
             }
         ]
@@ -752,7 +755,7 @@
                     "numberOfBackgrounds": 8,
                     "numberOfLogos": 1,
                     "numberOfHeadshots": 1,
-                    "speciaConsiderations": []
+                    "specialConsiderations": []
                 },
                 "textFields": [
                     {
