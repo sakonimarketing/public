@@ -1428,54 +1428,63 @@
                     {
                         "index": 1,
                         "label": "Name & Message Color",
+                        "type": "text", 
                         "required": true,
                         "placeholder": "Body Message"
                     },
                     {
                         "index": 2,
                         "label": "Body BG Color",
+                        "type": "text", 
                         "required": true,
                         "placeholder": "Body Message"
                     },
                     {
                         "index": 3,
                         "label": "Headshot Shading Color",
+                        "type": "text", 
                         "required": true,
                         "placeholder": "Body Message"
                     },
                     {
                         "index": 4,
                         "label": "Star Color",
+                        "type": "text", 
                         "required": true,
                         "placeholder": "Body Message"
                     },
                     {
                         "index": 5,
                         "label": "BG Color",
+                        "type": "text", 
                         "required": true,
                         "placeholder": "Body Message"
                     },
                     {
                         "index": 6,
                         "label": "Border Color",
+                        "type": "text", 
                         "required": true,
                         "placeholder": "Body Message"
                     },
                     {
                         "index": 7,
                         "label": "Footer Text Color",
+                        "type": "text", 
                         "required": true,
                         "placeholder": "Body Message"
                     },
                     {
                         "index": 8,
                         "label": "Footer BG Color",
+                        "type": "text", 
                         "required": true,
                         "placeholder": "Body Message"
                     },
                     {
                         "index": 9,
                         "label": "End Screen Text Color",
+                        "type": "text", 
                         "required": true,
                         "placeholder": "Body Message"
                     }
@@ -1664,7 +1673,7 @@
                 },
                 "specialConsiderations": {
                     "rating": {
-                        "form_field_identifiers": [],
+                        "textField": 3,
                         "conditions":  [
                             {
                                 "index": 1,
