@@ -1,7 +1,7 @@
 {
     "market_update": {
         "1": [
-            {   
+            {
                 "template_id": "d3bdb775-13d4-455d-a290-cd1eb109a8d0",
                 "file_postfix": "(market update)",
                 "attributes": {
@@ -188,7 +188,7 @@
             }
         ],
         "2": [
-            {   
+            {
                 "template_id": "a5596dba-598c-4136-94a3-fd721e11bc62",
                 "file_postfix": "(market update)",
                 "attributes": {
@@ -380,9 +380,7 @@
                             "colorIndex": 7
                         }
                     ],
-                    "headshots": [
-
-                    ],
+                    "headshots": [],
                     "logos": []
                 },
                 "specialConsiderations": {
@@ -391,7 +389,7 @@
             }
         ],
         "3": [
-            {   
+            {
                 "template_id": "4da446ff-dbe0-4795-9b9b-a0f3c3dc612b",
                 "file_postfix": "(market update)",
                 "attributes": {
@@ -564,12 +562,10 @@
         ]
     },
     "property_highlight": {
-        "1": [
-        ],
-        "2": [
-        ],
+        "1": [],
+        "2": [],
         "3": [
-            {   
+            {
                 "template_id": "ec843774-cb1f-4e1e-9127-a8e594cea82c",
                 "file_postfix": "(property highlight)",
                 "attributes": {
@@ -793,12 +789,10 @@
         ]
     },
     "memes": {
-        "1": [
-        ],
-        "2": [
-        ],
+        "1": [],
+        "2": [],
         "3": [
-            {   
+            {
                 "template_id": "88c2a892-903e-49c5-bedc-0a8677c2e25d",
                 "file_postfix": "(memes) (drake)",
                 "attributes": {
@@ -903,12 +897,10 @@
         ]
     },
     "general": {
-        "1": [
-        ],
-        "2": [
-        ],
+        "1": [],
+        "2": [],
         "3": [
-            {   
+            {
                 "template_id": "1c273df8-093b-4a38-a3d2-4f0b85eaa663",
                 "file_postfix": "(general)",
                 "attributes": {
@@ -1059,7 +1051,7 @@
                     "rating": []
                 }
             },
-            {   
+            {
                 "template_id": "dffc8170-eb0f-481b-bdab-b1889685c8c4",
                 "file_postfix": "(general) (testimonial)",
                 "attributes": {
@@ -1069,7 +1061,9 @@
                     "numberOfBackgrounds": 0,
                     "numberOfLogos": 1,
                     "numberOfHeadshots": 1,
-                    "specialConsiderations": ["rating"]
+                    "specialConsiderations": [
+                        "rating"
+                    ]
                 },
                 "textFields": [
                     {
@@ -1278,28 +1272,37 @@
                     "rating": [
                         {
                             "index": 1,
-                            "fields": ["Star1"]
+                            "fields": [
+                                "Star1"
+                            ]
                         },
                         {
                             "index": 2,
-                            "fields": ["Star2"]
+                            "fields": [
+                                "Star2"
+                            ]
                         },
                         {
                             "index": 3,
-                            "fields": ["Star3"]
+                            "fields": [
+                                "Star3"
+                            ]
                         },
                         {
                             "index": 4,
-                            "fields": ["Star4"]
+                            "fields": [
+                                "Star4"
+                            ]
                         },
                         {
                             "index": 5,
-                            "fields": ["Star5"]
+                            "fields": [
+                                "Star5"
+                            ]
                         }
                     ]
                 }
             }
         ]
-    } 
+    }
 }
-
