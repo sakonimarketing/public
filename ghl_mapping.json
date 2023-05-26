@@ -1112,19 +1112,22 @@
                         "index": 1,
                         "label": "Testimonial Full Name",
                         "type": "text", 
-                        "required": true
+                        "required": true,
+                        "placeholder": "Persons Full Name"
                     },
                     {
                         "index": 2,
                         "label": "Testimoninal Message",
                         "type": "text", 
-                        "required": true
+                        "required": true,
+                        "placeholder": "Body Message"
                     },
                     {
                         "index": 3,
                         "label": "Rating",
                         "type": "number", 
-                        "required": true
+                        "required": true,
+                        "placeholder": "Between 1 and 5"
                     }
                 ],
                 "colorFields": [
