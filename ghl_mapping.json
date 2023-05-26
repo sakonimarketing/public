@@ -1391,7 +1391,7 @@
                 "template_id": "dffc8170-eb0f-481b-bdab-b1889685c8c4",
                 "file_postfix": "(general) (testimonial)",
                 "attributes": {
-                    "numberOfTextFields": 3,
+                    "numberOfTextFields": 4,
                     "numberOfColorFields": 9,
                     "numberOfColorDroppers": 9,
                     "numberOfBackgrounds": 0,
@@ -1422,6 +1422,13 @@
                         "type": "number", 
                         "required": true,
                         "placeholder": "Between 1 and 5"
+                    },
+                    {
+                        "index": 4,
+                        "label": "End Screen Message",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Body Message"
                     }
                 ],
                 "colorFields": [
