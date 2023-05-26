@@ -1680,7 +1680,7 @@
                 },
                 "specialConsiderations": {
                     "rating": {
-                        "textField": 3,
+                        "textField": 4,
                         "conditions":  [
                             {
                                 "index": 1,
