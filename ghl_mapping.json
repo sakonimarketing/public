@@ -19,42 +19,42 @@
                         "label": "Median List Price",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Price Per Square Foot",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Average Days On Market",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Price Decrease",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Price Increase",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Median Rent",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "colorFields": [
@@ -63,49 +63,49 @@
                         "label": "Title Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "City Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Body Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Body Background Color",
                         "type": "string", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Footer BG Color",
                         "type": "string", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Footer Text Color",
                         "type": "string", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 7,
                         "label": "Border Color",
                         "type": "string", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "colorDroppers": [
@@ -114,49 +114,49 @@
                         "label": "Title Color",
                         "type": "string", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "City Color",
                         "type": "string", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Body Text Color",
                         "type": "string", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Body Background Color",
                         "type": "string", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Footer BG Color",
                         "type": "string", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Footer Text Color",
                         "type": "string", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 7,
                         "label": "Border Color",
                         "type": "string", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "backgrounds": [
@@ -165,7 +165,7 @@
                         "label": "Background Image",
                         "type": "string", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "assignments": {
@@ -269,42 +269,42 @@
                         "label": "Median List Price",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Price Per Square Foot",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Average Days On Market",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Price Decrease",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Price Increase",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Median Rent",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "colorFields": [
@@ -313,49 +313,49 @@
                         "label": "Headshot and Title BG Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Headshot Border Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Body Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Body Reveal Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Footer BG Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Footer Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 7,
                         "label": "Border Color and Title Stroke",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "colorDroppers": [
@@ -364,49 +364,49 @@
                         "label": "Headshot and Title BG Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Headshot Border Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Body Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Body Reveal Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Footer BG Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Footer Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 7,
                         "label": "Border Color and Title Stroke",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "backgrounds": [
@@ -415,7 +415,7 @@
                         "label": "Background Image",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "assignments": {
@@ -533,42 +533,42 @@
                         "label": "Median List Price",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Price Per Square Foot",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Average Days On Market",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Price Decrease",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Price Increase",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Median Rent",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "colorFields": [
@@ -577,35 +577,35 @@
                         "label": "Footer and Icon Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Animation Slide Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Body Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Footer Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Border Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "colorDroppers": [
@@ -614,35 +614,35 @@
                         "label": "Footer and Icon Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Animation Slide Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Body Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Footer Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Border Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "backgrounds": [
@@ -651,7 +651,7 @@
                         "label": "Background Image",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "headshots": [
@@ -763,63 +763,63 @@
                         "label": "Photo Location 1",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Photo Location 2",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Photo Location 3",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Photo Location 4",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Photo Location 5",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Photo Location 6",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 7,
                         "label": "Photo Location 7",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 8,
                         "label": "Photo Location 8",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 9,
                         "label": "Price",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "colorFields": [
@@ -828,42 +828,42 @@
                         "label": "Title Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Title Background Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Body Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Footer Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Footer Body Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Border Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "colorDroppers": [
@@ -872,42 +872,42 @@
                         "label": "Title Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Title Background Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Body Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Footer Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Footer Body Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Border Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "backgrounds": [
@@ -916,56 +916,56 @@
                         "label": "Property Photo 1",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Property Photo 2",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Property Photo 3",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Property Photo 4",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Property Photo 5",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Property Photo 6",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 7,
                         "label": "Property Photo 7",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 8,
                         "label": "Property Photo 8",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "headshots": [
@@ -1077,21 +1077,21 @@
                         "label": "Title",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Top Meme Text",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Bottom Meme Text",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "colorFields": [
@@ -1100,21 +1100,21 @@
                         "label": "Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Background Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Border Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "colorDroppers": [
@@ -1123,21 +1123,21 @@
                         "label": "Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Background Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Border Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "headshots": [
@@ -1212,14 +1212,14 @@
                         "label": "Top Text",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Bottom Text",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "colorFields": [
@@ -1228,42 +1228,42 @@
                         "label": "Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Top Container Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Bottom Container Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Top Dots Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Bottom Dots Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Border Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "colorDroppers": [
@@ -1272,42 +1272,42 @@
                         "label": "Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Top Container Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Bottom Container Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Top Dots Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "Bottom Dots Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Border Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "backgrounds": [
@@ -1316,7 +1316,7 @@
                         "label": "Background Image",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "headshots": [
@@ -1417,14 +1417,14 @@
                         "label": "Testimoninal Message",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "End Screen Message",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
@@ -1440,63 +1440,63 @@
                         "label": "Name & Message Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Body BG Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Headshot Shading Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Star Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "BG Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Border Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 7,
                         "label": "Footer Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 8,
                         "label": "Footer BG Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 9,
                         "label": "End Screen Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "colorDroppers": [
@@ -1505,63 +1505,63 @@
                         "label": "Name & Message Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Body BG Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 3,
                         "label": "Headshot Shading Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 4,
                         "label": "Star Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 5,
                         "label": "BG Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 6,
                         "label": "Border Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 7,
                         "label": "Footer Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 8,
                         "label": "Footer BG Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     },
                     {
                         "index": 9,
                         "label": "End Screen Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Body Message"
+                        "placeholder": ""
                     }
                 ],
                 "headshots": [
@@ -1708,6 +1708,260 @@
                             }
                         ]
                     }
+                }
+            },
+            {
+                "template_id": "75978330-925a-40e3-9691-fbf705237fc0",
+                "file_postfix": "(general) (q&a)",
+                "attributes": {
+                    "numberOfTextFields": 4,
+                    "numberOfColorFields": 8,
+                    "numberOfColorDroppers": 8,
+                    "numberOfBackgrounds": 1,
+                    "numberOfLogos": 1,
+                    "numberOfHeadshots": 1,
+                    "specialConsiderations": []
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Title",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Title"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Question",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Question"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Answer",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Answer"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Call To Action",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Call To Action"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Title Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Title Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Title BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 3,
+                        "label": "Body Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 4,
+                        "label": "Body Shadow Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 5,
+                        "label": "Loading Bar Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 6,
+                        "label": "Footer Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 7,
+                        "label": "Footer BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 8,
+                        "label": "Border Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Title Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Title Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Title BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 3,
+                        "label": "Body Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 4,
+                        "label": "Body Shadow Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 5,
+                        "label": "Loading Bar Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 6,
+                        "label": "Footer Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 7,
+                        "label": "Footer BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 8,
+                        "label": "Border Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    }
+                ],
+                "headshots": [
+                    {
+                        "headshotIndex": 1,
+                        "headshotOption": null,
+                        "showField": true
+                    }
+                ],
+                "logos": [
+                    {
+                        "logoIndex": 1,
+                        "logoOption": null,
+                        "showField": true
+                    }
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text1"
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "background_color",
+                            "fields": [
+                                "Text1"
+                            ],
+                            "colorIndex": 2
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text2",
+                                "Text3",
+                                "Text4"
+                            ],
+                            "colorIndex": 3
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "background_color",
+                            "fields": [
+                                "Text2",
+                                "Text3",
+                                "Text4",
+                                "LoadingBar"
+                            ],
+                            "colorIndex": 4
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "LoadingBar"
+                            ],
+                            "colorIndex": 5
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "ContactCredentials",
+                                "ContactWebsite",
+                                "ContactPhoneNumber",
+                                "ContactTitle",
+                                "ContactName",
+                                "ContactEmail"
+                            ],
+                            "colorIndex": 6
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "FooterBG"
+                            ],
+                            "colorIndex": 7
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                "Border"
+                            ],
+                            "colorIndex": 6
+                        }
+                    ]
+                },
+                "specialConsiderations": {
+                    
                 }
             }
         ]
