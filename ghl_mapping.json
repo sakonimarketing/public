@@ -163,9 +163,9 @@
                     {
                         "index": 1,
                         "label": "Background Image",
-                        "type": "string", 
+                        "type": "text", 
                         "required": true,
-                        "placeholder": ""
+                        "placeholder": "Must be an image"
                     }
                 ],
                 "assignments": {
@@ -415,7 +415,7 @@
                         "label": "Background Image",
                         "type": "text", 
                         "required": true,
-                        "placeholder": ""
+                        "placeholder": "Must be an image"
                     }
                 ],
                 "assignments": {
@@ -651,7 +651,7 @@
                         "label": "Background Image",
                         "type": "text", 
                         "required": true,
-                        "placeholder": ""
+                        "placeholder": "Must be an image"
                     }
                 ],
                 "headshots": [
@@ -916,56 +916,56 @@
                         "label": "Property Photo 1",
                         "type": "text", 
                         "required": true,
-                        "placeholder": ""
+                        "placeholder": "Must be an image"
                     },
                     {
                         "index": 2,
                         "label": "Property Photo 2",
                         "type": "text", 
                         "required": true,
-                        "placeholder": ""
+                        "placeholder": "Must be an image"
                     },
                     {
                         "index": 3,
                         "label": "Property Photo 3",
                         "type": "text", 
                         "required": true,
-                        "placeholder": ""
+                        "placeholder": "Must be an image"
                     },
                     {
                         "index": 4,
                         "label": "Property Photo 4",
                         "type": "text", 
                         "required": true,
-                        "placeholder": ""
+                        "placeholder": "Must be an image"
                     },
                     {
                         "index": 5,
                         "label": "Property Photo 5",
                         "type": "text", 
                         "required": true,
-                        "placeholder": ""
+                        "placeholder": "Must be an image"
                     },
                     {
                         "index": 6,
                         "label": "Property Photo 6",
                         "type": "text", 
                         "required": true,
-                        "placeholder": ""
+                        "placeholder": "Must be an image"
                     },
                     {
                         "index": 7,
                         "label": "Property Photo 7",
                         "type": "text", 
                         "required": true,
-                        "placeholder": ""
+                        "placeholder": "Must be an image"
                     },
                     {
                         "index": 8,
                         "label": "Property Photo 8",
                         "type": "text", 
                         "required": true,
-                        "placeholder": ""
+                        "placeholder": "Must be an image"
                     }
                 ],
                 "headshots": [
@@ -1139,6 +1139,8 @@
                         "required": true,
                         "placeholder": ""
                     }
+                ],
+                "backgrounds": [
                 ],
                 "headshots": [
                     {
@@ -1316,7 +1318,7 @@
                         "label": "Background Image",
                         "type": "text", 
                         "required": true,
-                        "placeholder": ""
+                        "placeholder": "Must be image source"
                     }
                 ],
                 "headshots": [
@@ -1563,6 +1565,8 @@
                         "required": true,
                         "placeholder": ""
                     }
+                ],
+                "backgrounds": [
                 ],
                 "headshots": [
                     {
@@ -1868,6 +1872,15 @@
                         "placeholder": ""
                     }
                 ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "Background Video (.mp4 source)",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Must be .mp4 source"
+                    }
+                ],
                 "headshots": [
                     {
                         "headshotIndex": 1,
@@ -1961,7 +1974,7 @@
                     ]
                 },
                 "specialConsiderations": {
-                    
+
                 }
             }
         ]
