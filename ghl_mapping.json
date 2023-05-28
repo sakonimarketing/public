@@ -1194,7 +1194,221 @@
     },
     "general": {
         "1": [],
-        "2": [],
+        "2": [
+            {
+                "template_id": "26add97d-9546-4cb9-b27d-11e2d9d420c6",
+                "file_postfix": "(general)",
+                "attributes": {
+                    "numberOfTextFields": 7,
+                    "numberOfColorFields": 5,
+                    "numberOfColorDroppers": 5,
+                    "numberOfBackgrounds": 2,
+                    "numberOfLogos": 1,
+                    "numberOfHeadshots": 1,
+                    "specialConsiderations": []
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Title",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "This is a title"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Body Text",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Subtitle"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Decline Text",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Leave blank for default"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Accept Text",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Leave blank for default"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Call To Action",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Call To Action"
+                    },
+                    {
+                        "index": 6,
+                        "label": "CTA Body Text",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Code/Website/Phone"
+                    },
+                    {
+                        "index": 7,
+                        "label": "Visit Store Text",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Leave blank for default"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Gradient Top",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Gradient Top"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Gradient Bottom",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Gradient Bottom"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Footer Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Footer Text Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Footer BG Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Border",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Border"
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Gradient Top",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Gradient Top"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Gradient Bottom",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Gradient Bottom"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Footer Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Footer Text Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Footer BG Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Border",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Border"
+                    }
+                ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "Primary Image",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Primary Image"
+                    }
+                ],
+                "headshots": [
+                    {
+                        "headshotIndex": 1,
+                        "headshotOption": null,
+                        "showField": true
+                    }
+                ],
+                "logos": [
+                    {
+                        "logoIndex": 1,
+                        "logoOption": null,
+                        "showField": true
+                    }
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "default_background",
+                            "colorKey": "fill_color.0.color",
+                            "fields": [
+                                "DefaultBackground"
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "default_background",
+                            "colorKey": "fill_color.1.color",
+                            "fields": [
+                                "DefaultBackground"
+                            ],
+                            "colorIndex": 2
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "ContactCredentials",
+                                "ContactWebsite",
+                                "ContactPhoneNumber",
+                                "ContactTitle",
+                                "ContactName",
+                                "ContactEmail"
+                            ],
+                            "colorIndex": 3
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "FooterBG"
+                            ],
+                            "colorIndex": 4
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                "Border"
+                            ],
+                            "colorIndex": 5
+                        }
+                    ]
+                },
+                "specialConsiderations": {
+
+                }
+            }
+        ],
         "3": [
             {
                 "template_id": "1c273df8-093b-4a38-a3d2-4f0b85eaa663",
