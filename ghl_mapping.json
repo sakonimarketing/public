@@ -1212,15 +1212,11 @@
                     {
                         "index": 1,
                         "label": "Top Text",
-                        "type": "text", 
-                        "required": true,
                         "placeholder": ""
                     },
                     {
                         "index": 2,
                         "label": "Bottom Text",
-                        "type": "text", 
-                        "required": true,
                         "placeholder": ""
                     }
                 ],
@@ -1228,88 +1224,64 @@
                     {
                         "index": 1,
                         "label": "Text Color",
-                        "type": "text", 
-                        "required": true,
-                        "placeholder": ""
+                        "placeholder": "Text Color"
                     },
                     {
                         "index": 2,
                         "label": "Top Container Color",
-                        "type": "text", 
-                        "required": true,
-                        "placeholder": ""
+                        "placeholder": "Top Container Color"
                     },
                     {
                         "index": 3,
                         "label": "Bottom Container Color",
-                        "type": "text", 
-                        "required": true,
-                        "placeholder": ""
+                        "placeholder": "Bottom Container Color"
                     },
                     {
                         "index": 4,
                         "label": "Top Dots Color",
-                        "type": "text", 
-                        "required": true,
-                        "placeholder": ""
+                        "placeholder": "Top Dots Color"
                     },
                     {
                         "index": 5,
                         "label": "Bottom Dots Color",
-                        "type": "text", 
-                        "required": true,
-                        "placeholder": ""
+                        "placeholder": "Bottom Dots Color"
                     },
                     {
                         "index": 6,
                         "label": "Border Color",
-                        "type": "text", 
-                        "required": true,
-                        "placeholder": ""
+                        "placeholder": "Border Color"
                     }
                 ],
                 "colorDroppers": [
                     {
                         "index": 1,
                         "label": "Text Color",
-                        "type": "text", 
-                        "required": true,
-                        "placeholder": ""
+                        "placeholder": "Text Color"
                     },
                     {
                         "index": 2,
                         "label": "Top Container Color",
-                        "type": "text", 
-                        "required": true,
-                        "placeholder": ""
+                        "placeholder": "Top Container Color"
                     },
                     {
                         "index": 3,
                         "label": "Bottom Container Color",
-                        "type": "text", 
-                        "required": true,
-                        "placeholder": ""
+                        "placeholder": "Bottom Container Color"
                     },
                     {
                         "index": 4,
                         "label": "Top Dots Color",
-                        "type": "text", 
-                        "required": true,
-                        "placeholder": ""
+                        "placeholder": "Top Dots Color"
                     },
                     {
                         "index": 5,
                         "label": "Bottom Dots Color",
-                        "type": "text", 
-                        "required": true,
-                        "placeholder": ""
+                        "placeholder": "Bottom Dots Color"
                     },
                     {
                         "index": 6,
                         "label": "Border Color",
-                        "type": "text", 
-                        "required": true,
-                        "placeholder": ""
+                        "placeholder": "Border Color"
                     }
                 ],
                 "backgrounds": [
