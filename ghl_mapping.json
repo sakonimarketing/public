@@ -792,13 +792,6 @@
                         "type": "text", 
                         "required": true,
                         "placeholder": "Year Built"
-                    },
-                    {
-                        "index": 6,
-                        "label": "Address",
-                        "type": "text", 
-                        "required": true,
-                        "placeholder": "Address"
                     }
                 ],
                 "colorFields": [
@@ -1039,7 +1032,8 @@
                             "fieldType": "text",
                             "colorKey": "fill_color",
                             "fields": [
-                                "Address"
+                                "Address",
+                                "CityStateZip"
                             ],
                             "colorIndex": 4
                         },
