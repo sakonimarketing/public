@@ -1,6 +1,6 @@
 {
     "market_update": {
-        "1": [ 
+        "1": [
             {
                 "template_id": "d3bdb775-13d4-455d-a290-cd1eb109a8d0",
                 "file_postfix": "(market update)",
@@ -1227,14 +1227,16 @@
                         "label": "Decline Text",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Leave blank for default"
+                        "placeholder": "Leave blank for default",
+                        "default": "Decline"
                     },
                     {
                         "index": 4,
                         "label": "Accept Text",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Leave blank for default"
+                        "placeholder": "Leave blank for default",
+                        "default": "Accept"
                     },
                     {
                         "index": 5,
@@ -1255,7 +1257,8 @@
                         "label": "Visit Store Text",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Leave blank for default"
+                        "placeholder": "Leave blank for default",
+                        "default": "Visit Store"
                     }
                 ],
                 "colorFields": [
