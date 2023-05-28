@@ -1227,16 +1227,14 @@
                         "label": "Decline Text",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Leave blank for default",
-                        "default": "Decline"
+                        "placeholder": "Leave blank for default"
                     },
                     {
                         "index": 4,
                         "label": "Accept Text",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Leave blank for default",
-                        "default": "Accept"
+                        "placeholder": "Leave blank for default"
                     },
                     {
                         "index": 5,
@@ -1257,8 +1255,7 @@
                         "label": "Visit Store Text",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "Leave blank for default",
-                        "default": "Visit Store"
+                        "placeholder": "Leave blank for default"
                     }
                 ],
                 "colorFields": [
@@ -2158,7 +2155,7 @@
                             "fields": [
                                 "Border"
                             ],
-                            "colorIndex": 6
+                            "colorIndex": 8
                         }
                     ]
                 },
