@@ -1407,6 +1407,232 @@
                 "specialConsiderations": {
 
                 }
+            },
+            {
+                "template_id": "89828b34-9ba7-4e4b-b5cc-d2d4b115a854",
+                "file_postfix": "(general)",
+                "attributes": {
+                    "numberOfTextFields": 3,
+                    "numberOfColorFields": 6,
+                    "numberOfColorDroppers": 6,
+                    "numberOfBackgrounds": 3,
+                    "numberOfLogos": 1,
+                    "numberOfHeadshots": 1,
+                    "specialConsiderations": []
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Text1",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text1"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Text2",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text2"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Text3",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text3"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Text BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text BG Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Image Stroke Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Image Stroke Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Footer Text Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Footer BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Footer BG Color"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Border",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Border"
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Text BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text BG Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Image Stroke Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Image Stroke Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Footer Text Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Footer BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Footer BG Color"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Border",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Border"
+                    }
+                ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "BG Design",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "BG Design"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Primary Image",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Primary Image"
+                    },
+                    {
+                        "index": 1,
+                        "label": "Secondary Image",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Secondary Image"
+                    }
+                ],
+                "headshots": [
+                    {
+                        "headshotIndex": 1,
+                        "headshotOption": null,
+                        "showField": true
+                    }
+                ],
+                "logos": [
+                    {
+                        "logoIndex": 1,
+                        "logoOption": null,
+                        "showField": true
+                    }
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text1",
+                                "Text2",
+                                "Text3"
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "background_color",
+                            "fields": [
+                                "Text1",
+                                "Text2",
+                                "Text3"
+                            ],
+                            "colorIndex": 2
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                "Background1Stroke",
+                                "Background2Stroke"
+                            ],
+                            "colorIndex": 3
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "ContactCredentials",
+                                "ContactWebsite",
+                                "ContactPhoneNumber",
+                                "ContactTitle",
+                                "ContactName",
+                                "ContactEmail"
+                            ],
+                            "colorIndex": 4
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "FooterBG"
+                            ],
+                            "colorIndex": 5
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                "Border"
+                            ],
+                            "colorIndex": 6
+                        }
+                    ]
+                },
+                "specialConsiderations": {
+
+                }
             }
         ],
         "3": [
