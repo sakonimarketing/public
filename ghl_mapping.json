@@ -743,7 +743,342 @@
     },
     "property_highlight": {
         "1": [],
-        "2": [],
+        "2": [
+            
+            {
+                "template_id": "63cd3a32-4905-4fb0-b090-5ceca9e945d9",
+                "file_postfix": "(property highlight)",
+                "attributes": {
+                    "numberOfTextFields": 6,
+                    "numberOfColorFields": 7,
+                    "numberOfColorDroppers": 7,
+                    "numberOfBackgrounds": 12,
+                    "numberOfLogos": 1,
+                    "numberOfHeadshots": 1,
+                    "specialConsiderations": []
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Title",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Title"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Number of Beds",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Number of Beds"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Number of Baths",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Number of Baths"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Sqft",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Sqft"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Year Built",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Year Built"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Address",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Address"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Title Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 2,
+                        "label": "Icon Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 3,
+                        "label": "Metric Colors",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 4,
+                        "label": "Address Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 5,
+                        "label": "Footer Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 6,
+                        "label": "Footer Body Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 7,
+                        "label": "Border Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Title Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 2,
+                        "label": "Icon Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 3,
+                        "label": "Metric Colors",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 4,
+                        "label": "Address Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 5,
+                        "label": "Footer Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 6,
+                        "label": "Footer Body Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 7,
+                        "label": "Border Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    }
+                ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "Property Photo 1",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Must be an image"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Property Photo 2",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Must be an image"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Property Photo 3",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Must be an image"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Property Photo 4",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Must be an image"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Property Photo 5",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Must be an image"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Property Photo 6",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Must be an image"
+                    },
+                    {
+                        "index": 7,
+                        "label": "Property Photo 7",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Must be an image"
+                    },
+                    {
+                        "index": 8,
+                        "label": "Property Photo 8",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Must be an image"
+                    },
+                    {
+                        "index": 7,
+                        "label": "Property Photo 9",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Must be an image"
+                    },
+                    {
+                        "index": 10,
+                        "label": "Property Photo 10",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Must be an image"
+                    },
+                    {
+                        "index": 11,
+                        "label": "Property Photo 11",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Background Image"
+                    },
+                    {
+                        "index": 12,
+                        "label": "Property Photo 12",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Metric Container Image"
+                    }
+                ],
+                "headshots": [
+                    {
+                        "headshotIndex": 1,
+                        "headshotOption": null,
+                        "showField": true
+                    }
+                ],
+                "logos": [
+                    {
+                        "logoIndex": 1,
+                        "logoOption": null,
+                        "showField": true
+                    }
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text1"
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "color_overlay",
+                            "fields": [
+                                "BedIcon",
+                                "BathIcon",
+                                "RulerIcon",
+                                "CalendarIcon"
+                            ],
+                            "colorIndex": 2
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text2",
+                                "Text3",
+                                "Text4",
+                                "Text5"
+                            ],
+                            "colorIndex": 3
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Address"
+                            ],
+                            "colorIndex": 4
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "ContactCredentials",
+                                "ContactWebsite",
+                                "ContactPhoneNumber",
+                                "ContactTitle",
+                                "ContactName",
+                                "ContactEmail"
+                            ],
+                            "colorIndex": 5
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "FooterBG"
+                            ],
+                            "colorIndex": 6
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                "Border"
+                            ],
+                            "colorIndex": 7
+                        }
+                    ]
+                },
+                "specialConsiderations": {
+                    "rating": []
+                }
+            }
+        ],
         "3": [
             {
                 "template_id": "ec843774-cb1f-4e1e-9127-a8e594cea82c",
@@ -1594,8 +1929,8 @@
                             "fieldType": "block",
                             "colorKey": "stroke_color",
                             "fields": [
-                                "Background1Stroke",
-                                "Background2Stroke"
+                                "Background2Stroke",
+                                "Background3Stroke"
                             ],
                             "colorIndex": 3
                         },
