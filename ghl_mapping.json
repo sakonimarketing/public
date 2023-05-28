@@ -2157,17 +2157,17 @@
                     },
                     {
                         "index": 9,
-                        "label": "CTA Background Color",
+                        "label": "Footer Text Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "CTA Background Color"
+                        "placeholder": "Footer Text Color"
                     },
                     {
                         "index": 10,
-                        "label": "CTA Background Color",
+                        "label": "Footer BG Color",
                         "type": "text", 
                         "required": true,
-                        "placeholder": "CTA Background Color"
+                        "placeholder": "Footer BG Color"
                     },
                     {
                         "index": 11,
