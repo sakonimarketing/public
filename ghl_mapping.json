@@ -968,14 +968,14 @@
                     },
                     {
                         "index": 11,
-                        "label": "Property Photo 11",
+                        "label": "Background Image",
                         "type": "text", 
                         "required": true,
                         "placeholder": "Background Image"
                     },
                     {
                         "index": 12,
-                        "label": "Property Photo 12",
+                        "label": "Metric Container Image",
                         "type": "text", 
                         "required": true,
                         "placeholder": "Metric Container Image"
