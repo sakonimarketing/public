@@ -2717,6 +2717,216 @@
 
                 }
             },
+            
+            {
+                "template_id": "2fd0ebeb-79a9-4f51-9a2c-194974f77375",
+                "file_postfix": "(general)",
+                "attributes": {
+                    "numberOfTextFields": 4,
+                    "numberOfColorFields": 6,
+                    "numberOfColorDroppers": 6,
+                    "numberOfBackgrounds": 1,
+                    "numberOfLogos": 2,
+                    "numberOfHeadshots": 2,
+                    "specialConsiderations": []
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Description",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Primary Text"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Call To Action",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Call To Action"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Body Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Body Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Body BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Body BG Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "CTA Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "CTA Text Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Footer Text Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Footer BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Footer BG Color"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Border Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Border Color"
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Body Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Body Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Body BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Body BG Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "CTA Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "CTA Text Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Footer Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Footer Text Color"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Footer BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Footer BG Color"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Border Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Border Color"
+                    }
+                ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "Background Image",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Primary Image"
+                    }
+                ],
+                "headshots": [
+                    {
+                        "headshotIndex": 1,
+                        "headshotOption": null,
+                        "showField": true
+                    },
+                    {
+                        "headshotIndex": 2,
+                        "headshotOption": null,
+                        "showField": true
+                    }
+                ],
+                "logos": [
+                    {
+                        "logoIndex": 1,
+                        "logoOption": null,
+                        "showField": true
+                    },
+                    {
+                        "logoIndex": 2,
+                        "logoOption": null,
+                        "showField": true
+                    }
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text1"
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "background_color",
+                            "fields": [
+                                "Text1"
+                            ],
+                            "colorIndex": 2
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text2"
+                            ],
+                            "colorIndex": 3
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "ContactCredentials",
+                                "ContactWebsite",
+                                "ContactPhoneNumber",
+                                "ContactTitle",
+                                "ContactName",
+                                "ContactEmail"
+                            ],
+                            "colorIndex": 4
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "FooterBG"
+                            ],
+                            "colorIndex": 5
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                "Border"
+                            ],
+                            "colorIndex": 6
+                        }
+                    ]
+                },
+                "specialConsiderations": {
+                }
+            },
             {
                 "template_id": "baa1263b-d4a6-4eee-9be9-c24503ee7b45",
                 "file_postfix": "(general)",
