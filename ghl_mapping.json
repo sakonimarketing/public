@@ -1077,7 +1077,7 @@
                 "template_id": "ec843774-cb1f-4e1e-9127-a8e594cea82c",
                 "file_postfix": "(property highlight)",
                 "attributes": {
-                    "numberOfTextFields": 9,
+                    "numberOfTextFields": 10,
                     "numberOfColorFields": 6,
                     "numberOfColorDroppers": 6,
                     "numberOfBackgrounds": 8,
@@ -1088,62 +1088,69 @@
                 "textFields": [
                     {
                         "index": 1,
-                        "label": "Photo Location 1",
+                        "label": "Title",
                         "type": "text", 
                         "required": true,
                         "placeholder": ""
                     },
                     {
                         "index": 2,
-                        "label": "Photo Location 2",
+                        "label": "Photo Location 1",
                         "type": "text", 
                         "required": true,
                         "placeholder": ""
                     },
                     {
                         "index": 3,
-                        "label": "Photo Location 3",
+                        "label": "Photo Location 2",
                         "type": "text", 
                         "required": true,
                         "placeholder": ""
                     },
                     {
                         "index": 4,
-                        "label": "Photo Location 4",
+                        "label": "Photo Location 3",
                         "type": "text", 
                         "required": true,
                         "placeholder": ""
                     },
                     {
                         "index": 5,
-                        "label": "Photo Location 5",
+                        "label": "Photo Location 4",
                         "type": "text", 
                         "required": true,
                         "placeholder": ""
                     },
                     {
                         "index": 6,
-                        "label": "Photo Location 6",
+                        "label": "Photo Location 5",
                         "type": "text", 
                         "required": true,
                         "placeholder": ""
                     },
                     {
                         "index": 7,
-                        "label": "Photo Location 7",
+                        "label": "Photo Location 6",
                         "type": "text", 
                         "required": true,
                         "placeholder": ""
                     },
                     {
                         "index": 8,
-                        "label": "Photo Location 8",
+                        "label": "Photo Location 7",
                         "type": "text", 
                         "required": true,
                         "placeholder": ""
                     },
                     {
                         "index": 9,
+                        "label": "Photo Location 8",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": ""
+                    },
+                    {
+                        "index": 10,
                         "label": "Price",
                         "type": "text", 
                         "required": true,
@@ -1316,7 +1323,7 @@
                             "fieldType": "text",
                             "colorKey": "fill_color",
                             "fields": [
-                                "Title"
+                                "Text1"
                             ],
                             "colorIndex": 1
                         },
@@ -1324,7 +1331,7 @@
                             "fieldType": "block",
                             "colorKey": "background_color.0.value",
                             "fields": [
-                                "Title"
+                                "Text1"
                             ],
                             "colorIndex": 2
                         },
@@ -1332,7 +1339,6 @@
                             "fieldType": "text",
                             "colorKey": "fill_color",
                             "fields": [
-                                "Text1",
                                 "Text2",
                                 "Text3",
                                 "Text4",
@@ -1341,6 +1347,7 @@
                                 "Text7",
                                 "Text8",
                                 "Text9",
+                                "Text10",
                                 "CityStateZip",
                                 "Address"
                             ],
@@ -2717,7 +2724,6 @@
 
                 }
             },
-            
             {
                 "template_id": "2fd0ebeb-79a9-4f51-9a2c-194974f77375",
                 "file_postfix": "(general)",
