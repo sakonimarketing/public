@@ -688,7 +688,7 @@
                             "fieldType": "animation",
                             "colorKey": "animations.0.color",
                             "fields": [
-                                "BackgroundImage",
+                                "Background1",
                                 "Footer"
                             ],
                             "colorIndex": 2
