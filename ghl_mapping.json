@@ -1968,6 +1968,173 @@
                 "specialConsiderations": {
 
                 }
+            },
+            {
+                "template_id": "240e0041-09f7-4b93-988e-a926607389f5",
+                "file_postfix": "(general)",
+                "attributes": {
+                    "numberOfTextFields": 5,
+                    "numberOfColorFields": 2,
+                    "numberOfColorDroppers": 2,
+                    "numberOfBackgrounds": 0,
+                    "numberOfLogos": 0,
+                    "numberOfHeadshots": 0,
+                    "specialConsiderations": []
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Text1",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text1"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Text2",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text2"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Text3",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text3"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Text4",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text4"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Text5",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text5"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Main Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Main Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Unique Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Unique Text Color"
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Main Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Main Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Unique Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Unique Text Color"
+                    }
+                ],
+                "backgrounds": [
+                ],
+                "headshots": [
+                    {
+                        "headshotIndex": 1,
+                        "headshotOption": null,
+                        "showField": false
+                    }
+                ],
+                "logos": [
+                    {
+                        "logoIndex": 1,
+                        "logoOption": null,
+                        "showField": false
+                    }
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text1",
+                                "Text2",
+                                "Text3",
+                                "Text5"
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text4"
+                            ],
+                            "colorIndex": 2
+                        }
+                    ]
+                },
+                "specialConsiderations": {
+                    "customizations": {
+                        "textField": 5,
+                        "conditions":  [
+                            {
+                                "index": 1,
+                                "fields": [
+                                    "Text1"
+                                ],
+                                "customizations": []
+                            },
+                            {
+                                "index": 2,
+                                "fields": [
+                                    "Text2"
+                                ],
+                                "customizations": {
+                                    "options": ["italic", "weight|800"]
+                                }
+                            },
+                            {
+                                "index": 3,
+                                "fields": [
+                                    "Text3"
+                                ],
+                                "customizations": []
+                            },
+                            {
+                                "index": 4,
+                                "fields": [
+                                    "Text4"
+                                ],
+                                "customizations": {
+                                    "options": ["family|Hanalei Fill", "color|#03e6ff"]
+                                }
+                            },
+                            {
+                                "index": 5,
+                                "fields": [
+                                    "Text5"
+                                ],
+                                "customizations": []
+                            }
+                        ]
+                    }
+                }
             }
         ],
         "3": [
