@@ -2091,48 +2091,50 @@
                 },
                 "specialConsiderations": {
                     "customizations": {
-                        "textFields": 5,
-                        "conditions":  [
-                            {
-                                "index": 1,
-                                "fields": [
-                                    "Text1"
-                                ],
-                                "customizations": []
-                            },
-                            {
-                                "index": 2,
-                                "fields": [
-                                    "Text2"
-                                ],
-                                "customizations": {
-                                    "options": ["italic", "weight|800"]
+                        "textFields": 1,
+                        "conditions":  {
+                            "1": [
+                                {
+                                    "index": 1,
+                                    "fields": [
+                                        "Text1"
+                                    ],
+                                    "customizations": []
+                                },
+                                {
+                                    "index": 2,
+                                    "fields": [
+                                        "Text2"
+                                    ],
+                                    "customizations": {
+                                        "options": ["italic", "weight|800"]
+                                    }
+                                },
+                                {
+                                    "index": 3,
+                                    "fields": [
+                                        "Text3"
+                                    ],
+                                    "customizations": []
+                                },
+                                {
+                                    "index": 4,
+                                    "fields": [
+                                        "Text4"
+                                    ],
+                                    "customizations": {
+                                        "options": ["family|Hanalei Fill", "color|#03e6ff"]
+                                    }
+                                },
+                                {
+                                    "index": 5,
+                                    "fields": [
+                                        "Text5"
+                                    ],
+                                    "customizations": []
                                 }
-                            },
-                            {
-                                "index": 3,
-                                "fields": [
-                                    "Text3"
-                                ],
-                                "customizations": []
-                            },
-                            {
-                                "index": 4,
-                                "fields": [
-                                    "Text4"
-                                ],
-                                "customizations": {
-                                    "options": ["family|Hanalei Fill", "color|#03e6ff"]
-                                }
-                            },
-                            {
-                                "index": 5,
-                                "fields": [
-                                    "Text5"
-                                ],
-                                "customizations": []
-                            }
-                        ]
+                            ]
+                        }
                     }
                 }
             }
