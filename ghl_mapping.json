@@ -1979,7 +1979,7 @@
                     "numberOfBackgrounds": 0,
                     "numberOfLogos": 0,
                     "numberOfHeadshots": 0,
-                    "specialConsiderations": []
+                    "specialConsiderations": ["customizations"]
                 },
                 "textFields": [
                     {
