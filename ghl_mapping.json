@@ -2091,7 +2091,7 @@
                 },
                 "specialConsiderations": {
                     "customizations": {
-                        "textField": 5,
+                        "textFields": 5,
                         "conditions":  [
                             {
                                 "index": 1,
