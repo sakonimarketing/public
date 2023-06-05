@@ -3561,8 +3561,6 @@
                             "fieldType": "block",
                             "colorKey": "fill_color",
                             "fields": [
-                                "Circles",
-                                "Waves",
                                 "SidebarBG",
                                 "HeaderBG"
                             ],
