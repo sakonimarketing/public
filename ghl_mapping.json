@@ -2099,39 +2099,35 @@
                                     "fields": [
                                         "Text1"
                                     ],
-                                    "customizations": []
+                                    "options": []
                                 },
                                 {
                                     "index": 2,
                                     "fields": [
                                         "Text2"
                                     ],
-                                    "customizations": {
-                                        "options": ["italic", "weight|800"]
-                                    }
+                                    "options": ["italic", "weight|800"]
                                 },
                                 {
                                     "index": 3,
                                     "fields": [
                                         "Text3"
                                     ],
-                                    "customizations": []
+                                    "options": []
                                 },
                                 {
                                     "index": 4,
                                     "fields": [
                                         "Text4"
                                     ],
-                                    "customizations": {
-                                        "options": ["family|Hanalei Fill", "color|#03e6ff"]
-                                    }
+                                    "options": ["family|Hanalei Fill", "color|#03e6ff"]
                                 },
                                 {
                                     "index": 5,
                                     "fields": [
                                         "Text5"
                                     ],
-                                    "customizations": []
+                                    "options": []
                                 }
                             ]
                         }
