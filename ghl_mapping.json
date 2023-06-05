@@ -1528,7 +1528,8 @@
         ]
     },
     "general": {
-        "1": [],
+        "1": [
+        ],
         "2": [
             {
                 "template_id": "26add97d-9546-4cb9-b27d-11e2d9d420c6",
@@ -3429,6 +3430,155 @@
                 },
                 "specialConsiderations": {
 
+                }
+            },
+            {
+                "template_id": "c4fe4aa8-d248-4668-bf1d-ae6fdaff7f32",
+                "file_postfix": "(general)",
+                "attributes": {
+                    "numberOfTextFields": 1,
+                    "numberOfColorFields": 4,
+                    "numberOfColorDroppers": 4,
+                    "numberOfBackgrounds": 1,
+                    "numberOfLogos": 1,
+                    "numberOfHeadshots": 1,
+                    "specialConsiderations": []
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Text1",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Primary Text"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Text BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text BG Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "BG Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Border Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Border Color"
+                    }
+                ],
+                "colorDroppers": [
+                    {
+                        "index": 1,
+                        "label": "Text Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text Color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Text BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Text BG Color"
+                    },
+                    {
+                        "index": 3,
+                        "label": "BG Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "BG Color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Border Color",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Border Color"
+                    }
+                ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "Background Image",
+                        "type": "text", 
+                        "required": true,
+                        "placeholder": "Primary Image"
+                    },
+                ],
+                "headshots": [
+                    {
+                        "headshotIndex": 1,
+                        "headshotOption": null,
+                        "showField": true
+                    }
+                ],
+                "logos": [
+                    {
+                        "logoIndex": 1,
+                        "logoOption": null,
+                        "showField": true
+                    }
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text1",
+                                "ContactPhoneNumber",
+                                "ContactEmail"
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "text",
+                            "colorKey": "background_color",
+                            "fields": [
+                                "ContactPhoneNumber",
+                                "ContactEmail"
+                            ],
+                            "colorIndex": 2
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Circles",
+                                "Waves",
+                                "SidebarBG",
+                                "HeaderBG"
+                            ],
+                            "colorIndex": 3
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                "Border"
+                            ],
+                            "colorIndex": 4
+                        }
+                    ]
+                },
+                "specialConsiderations": {
                 }
             }
         ]
