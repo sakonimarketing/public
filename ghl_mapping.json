@@ -1387,7 +1387,197 @@
                 "specialConsiderations": {
                     "rating": []
                 }
-            }
+            },
+            {
+                "template_id": "668813d8-2976-4850-8548-797d2b3e7551",
+                "file_postfix": "(general)",
+                "attributes": {
+                    "numberOfTextFields": 7,
+                    "numberOfColorFields": 7,
+                    "numberOfColorDroppers": 7,
+                    "numberOfBackgrounds": 2,
+                    "numberOfLogos": 0,
+                    "numberOfHeadshots": 1,
+                    "specialConsiderations": [
+                    ]
+                },
+                "textFields": [
+                    {
+                        "index": 1,
+                        "label": "Title"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Sub title"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Call to action"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Bedroom"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Bathroom"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Garage"
+                    },
+                    {
+                        "index": 7,
+                        "label": "Square Foot"
+                    }
+                ],
+                "colorFields": [
+                    {
+                        "index": 1,
+                        "label": "Title color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Sub Title Colors"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Sub title background color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Property information colors"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Background color"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Footer text color"
+                    },
+                    {
+                        "index": 7,
+                        "label": "Footer background color"
+                    }
+                ],
+                "colorDroppers": [
+                      {
+                        "index": 1,
+                        "label": "Title color"
+                    },
+                    {
+                        "index": 2,
+                        "label": "Sub Title Colors"
+                    },
+                    {
+                        "index": 3,
+                        "label": "Sub title background color"
+                    },
+                    {
+                        "index": 4,
+                        "label": "Property information colors"
+                    },
+                    {
+                        "index": 5,
+                        "label": "Background color"
+                    },
+                    {
+                        "index": 6,
+                        "label": "Footer text color"
+                    },
+                    {
+                        "index": 7,
+                        "label": "Footer background color"
+                    }
+                ],
+                "backgrounds": [
+                    {
+                        "index": 1,
+                        "label": "Property image1"
+                    },
+                    {
+                        "index": 2,
+                        "label": "property Image2"
+                    }
+                ],
+                "headshots": [
+                    {
+                        "headshotIndex": 1,
+                        "headshotOption": null,
+                        "showField": true
+                    }
+                ],
+                "logos": [
+                    {
+                        "logoIndex": 1,
+                        "logoOption": null,
+                        "showField": false
+                    }
+                ],
+                "assignments": {
+                    "colors": [
+                        {
+                            "fieldType": "text",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "Text1"
+                            ],
+                            "colorIndex": 1
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "text2","text3"
+                            ],
+                            "colorIndex": 2
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "sub title background"
+                            ],
+                            "colorIndex": 3
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "text5","text4","text6","text7"
+                            ],
+                            "colorIndex": 4
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "fill_color",
+                            "fields": [
+                                "color background"
+                            ],
+                            "colorIndex": 5
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                ""
+                            ],
+                            "colorIndex": 6
+                        },
+                        {
+                            "fieldType": "block",
+                            "colorKey": "stroke_color",
+                            "fields": [
+                                "Footer background"
+                            ],
+                            "colorIndex": 7
+                        }
+                    ]
+                },
+                "specialConsiderations": {
+                }
+              }
         ]
     },
     "memes": {
