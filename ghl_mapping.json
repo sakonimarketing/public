@@ -2106,7 +2106,7 @@
                                     "fields": [
                                         "Text2"
                                     ],
-                                    "conditions": ["italic", "weight|800"]
+                                    "conditions": ["style|italic", "weight|800"]
                                 },
                                 {
                                     "index": 3,
